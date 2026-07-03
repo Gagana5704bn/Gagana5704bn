@@ -197,5 +197,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM240aDZ5MHp1dGh4M2t1ZXlhZ2VoaHF2NnBqOThmbmpweXV2dmh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="450"/>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gagana5704bn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagana5704bn&repo=Movie-Booking-Application&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagana5704bn&repo=ShopEase&theme=tokyonight" />
+</p>
