@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul Girigoudanavar
+# Hi 👋, I'm Gagana BN
 
 <h3 align="center">
 🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast | 🤖 AI Builder
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering Graduate 
+🎓Information Science & Engineering Graduate 
 
 💻 Software Engineer specializing in Java Full Stack Development
 
@@ -35,61 +35,66 @@
 
 🌱 Always exploring new technologies and contributing to real-world projects
 
-📫 Reach me at: **rahulgirigoudanavar@gmail.com**
+📫 Reach me at: **bngagana401@gmail.com**
 
 ⚡ Fun Fact: I enjoy turning ideas into real-world applications and continuously learning new technologies.
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulgirigoudanavar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgirigoudanavar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagana-bn-041926374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bngagana401@gmail.com) 
 
 ---
 ## 🚀 Featured Projects
 
-### 🎬 Movie Booking Application
+### 🛡️ Characterizing Mobile Money Phishing Using Reinforcement Learning
 
-**Java | Spring Boot | Hibernate | MySQL | HTML | CSS | JavaScript**
+**Python | Reinforcement Learning | Machine Learning | Cybersecurity | Data Analytics**
 
-- Online movie ticket booking system
-- User Registration & Secure Login
-- Browse movies, theatres, and show timings
-- Seat selection and ticket booking
-- Admin panel for managing movies and schedules
-- RESTful APIs with database integration
+- Built a machine learning model to detect and classify mobile money phishing attacks.
+- Implemented Reinforcement Learning algorithms to improve phishing detection performance.
+- Processed and analyzed large datasets to identify fraudulent transaction patterns.
+- Applied feature engineering and data preprocessing techniques for model optimization.
+- Evaluated model performance using standard machine learning metrics.
+- Designed the solution to improve security and protect users from financial fraud.
 
 ---
 
-### 🍔 Cafe Food Ordering Application
+### 🚗 Vehicle Management System
 
 **Java | Spring Boot | Hibernate | MySQL | React | REST APIs**
 
-- Online food ordering and menu management system
-- User Authentication & Authorization
-- Browse menu with categories and pricing
-- Add-to-cart and order placement functionality
-- Order history and order status tracking
-- Admin dashboard for menu and order management
+- Vehicle registration and management system.
+- User authentication and authorization.
+- Add, update, delete, and search vehicle records.
+- Manage owner details, insurance, and service history.
+- Track vehicle availability and maintenance schedules.
+- Admin dashboard for monitoring vehicles and users.
+- RESTful APIs with MySQL database integration.
+- Responsive full-stack web application.
 
 ---
 
-### 🤖 CareerGPT – AI Career Assistant
+### 🛒 ShopEase – Online Shopping Platform
 
-**Java | Spring Boot | React | OpenAI API | MySQL | REST APIs**
+**Java | Spring Boot | Hibernate | MySQL | React | REST APIs**
 
-- AI-powered career guidance and job recommendation platform
-- Personalized job suggestions based on skills and interests
-- Resume analysis and career roadmap generation
-- AI chatbot for interview preparation and career advice
-- Secure user authentication and profile management
-- Responsive full-stack web application
+- Developed a full-stack e-commerce application for seamless online shopping.
+- Implemented secure user authentication and authorization.
+- Built a product catalog with search, filtering, and category management.
+- Added shopping cart, checkout, and order placement functionality.
+- Enabled order history and order status tracking for users.
+- Developed an admin dashboard to manage products, users, orders, and inventory.
+- Integrated MySQL database using Hibernate (JPA) for efficient data management.
+- Designed and consumed RESTful APIs for frontend-backend communication.
+- Created a responsive and user-friendly interface using React.
 
 ---
 
 # 🏆 Certifications
 
 - ☕ **Java Full Stack Development** — JSpiders, Bengaluru (2026)
-- ☁️ **AWS Solutions Architect – Associate** — Visvesvaraya Technological University (VTU) under Swatantra Amrutha Mahotsav Mannade Yojane (2025)
+- ☁️ **Airobosoft Products and Services LLP** —on Machine Learning and Artificial Intelligence(2025)
 
 ---
 
@@ -155,15 +160,15 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgirigoudanavar-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gagana5704bn&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgirigoudanavar-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagana5704bn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulgirigoudanavar-crypto&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Gagana5704bn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -171,13 +176,19 @@
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulgirigoudanavar-crypto&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagana5704bn&theme=tokyo-night" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎵 Currently Listening
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)
+
+### 🌸 Quote of the Day
+
+> "Code is like humor. When you have to explain it, it's bad."
+> — Cory House
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahulgirigoudanavar-crypto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Gagana5704bn&limit=5&theme=dark&combine_all_yearly_contributions=true)
