@@ -157,6 +157,12 @@
 
 ---
 
+### ☕
+
+<a href="https://buymeacoffee.com/Gagana5704bn">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
 # 📈 GitHub Stats
 
 <p align="center">
@@ -180,6 +186,10 @@
 </p>
 
 ---
+
+### 📅 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/Gagana5704bn" />
 ### 👀 Profile Visitors
 
 ![](https://komarev.com/ghpvc/?username=Gagana5704bn&color=blueviolet&style=for-the-badge)
