@@ -186,10 +186,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Gagana5704bn&color=blueviolet&style=for-the-badge)
 
-### 🌸 Quote of the Day
-
-> "Code is like humor. When you have to explain it, it's bad."
-> — Cory House
 
 ### 💻 Coding Mood
 
@@ -197,9 +193,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM240aDZ5MHp1dGh4M2t1ZXlhZ2VoaHF2NnBqOThmbmpweXV2dmh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="450"/>
 </p>
 
-### 🚀 Featured Repositories
+### 🌸 Quote of the Day
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagana5704bn&repo=Movie-Booking-Application&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagana5704bn&repo=ShopEase&theme=tokyonight" />
-</p>
+> "Code is like humor. When you have to explain it, it's bad."
+> — Cory House
