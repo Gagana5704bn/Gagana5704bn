@@ -164,7 +164,6 @@
 </a>
 
 # 📈 GitHub Stats
-### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gagana5704bn&theme=tokyonight&hide_border=true" />
