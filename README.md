@@ -190,5 +190,11 @@
 > "Code is like humor. When you have to explain it, it's bad."
 > — Cory House
 
+### 💻 Coding Mood
+
+<p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM240aDZ5MHp1dGh4M2t1ZXlhZ2VoaHF2NnBqOThmbmpweXV2dmh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="450"/>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gagana5704bn&limit=5&theme=dark&combine_all_yearly_contributions=true)
