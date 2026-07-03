@@ -180,10 +180,9 @@
 </p>
 
 ---
+### 👀 Profile Visitors
 
-### 🎵 Currently Listening
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)
+![](https://komarev.com/ghpvc/?username=Gagana5704bn&color=blueviolet&style=for-the-badge)
 
 ### 🌸 Quote of the Day
 
